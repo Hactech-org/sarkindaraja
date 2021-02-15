@@ -1,0 +1,30 @@
+h1{
+   text-align: center;
+   font-size: 70px;
+   background-color: bisque;
+  margin: 30px; 
+  margin-top: 20px;
+}
+h2{
+    font-style: oblique;
+    font-variant: inherit;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h4{
+   font-weight: bold;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-stretch: ultra-expanded;
+  margin: 25pt;
+  font-style: oblique;
+  color: red;
+  padding: 7px;
+}
+
+p{
+  font-weight: bold;
+  font-size: 22px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: blue;
+}
+
+
